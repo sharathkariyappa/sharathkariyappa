@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://images.app.goo.gl/8BhMjBJeW3nS4TEVA" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Sharath Kariyappa, A passionate Blockchain developer 👨‍💻 🚀</div>  
   
 
