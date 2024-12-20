@@ -1,10 +1,10 @@
 ### <div align="center">I'm Sharath Kariyappa, A passionate Blockchain developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Rast·r Technologies](https://rastr.io/) as a software developer intern  
+- 🔭 I’m currently working as Contributor and Developer @ [Timechain Labs](https://timechainlabs.io/)
   
 
-- 🌱 I’m currently learning Hyperledger  
+- 🌱 I worked as a software developer intern @ [Rast·r Technologies](https://rastr.io/)  
   
 
 - ❓ Ask me about anything related to React, Hardhat and related technologies  
