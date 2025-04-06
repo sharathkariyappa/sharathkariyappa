@@ -1,15 +1,12 @@
 ### <div align="center">I'm Sharath Kariyappa, A passionate Blockchain developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working as Contributor and Developer @ [Timechain Labs](https://timechainlabs.io/)
-  
+- 🔭 Frontend Developer @ [Timechain Labs](https://timechainlabs.io/)
+
+- 🔭 Previously worked as Contributor and Developer  @ [Timechain Labs](https://timechainlabs.io/)
 
 - 🌱 I worked as a software developer intern @ [Rast·r Technologies](https://rastr.io/)  
   
-
-- ❓ Ask me about anything related to React, Hardhat and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
