@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sharath Kariyappa, A passionate Blockchain developer 👨‍💻 🚀</div>  
   
 
-- 🔭 Frontend Developer @ [Timechain Labs](https://timechainlabs.io/)
+- 🔭 Software Developer @ [Timechain Labs](https://timechainlabs.io/)
 
 - 🔭 Previously worked as Contributor and Developer  @ [Timechain Labs](https://timechainlabs.io/)
 
