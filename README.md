@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m currently Building **Neucron, Assetyzer**
+ I’m currently Building **Neucron, Assetyzer**
  
- 🌱 I’m currently learning **Go, Low Level Design, AWS**
+ I’m currently learning **Go, Low Level Design, AWS**
 
-💬 Ask me about **Node.js, React, Typescript, Javascript, Svelte... or anything [here](https://github.com/sharathkariyappa/sharathkariyappa/issues)**
+ Ask me about **Node.js, React, Typescript, Javascript, Svelte... or anything [here](https://github.com/sharathkariyappa/sharathkariyappa/issues)**
 
-⚡ Fun fact **I Use Tabs over Spaces**
+ Fun fact **I Use Tabs over Spaces**
 
  </div>
  
@@ -44,7 +44,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sharathkariyappa/sharathkariyappa/output/github-contribution-grid-snake.svg" />
   
